@@ -33,21 +33,7 @@ The dataset contains the following features:
 * Feature scaling using StandardScaler
 * Train-test split performed
 
-## Exploratory Data Analysis (EDA)
 
-### Churn Distribution
-
-Analyzed the distribution of churned and retained customers.
-
-### Correlation Analysis
-
-Generated a correlation heatmap to identify relationships between features.
-
-### Customer Demographics Analysis
-
-* Age Distribution
-* Gender Distribution
-* Geography-wise Churn Analysis
 
 ## Machine Learning Models
 
